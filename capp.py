@@ -1,4 +1,4 @@
-import streamlit as st
+
 from nltk.chat.util import Chat, reflections
 import time
 
@@ -44,3 +44,4 @@ pairs = [
         r"(.*) debt|debt management|pay off debt|credit card debt",
         ["Use the avalanche method (pay highest interest first) to save money, or the snowball method (smallest balance first) for motivation.",
          "Consolidating high-interest debt with a lower-interest personal loan can help reduce
+
