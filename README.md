@@ -13,10 +13,4 @@ The chatbot demonstrates the use of **Natural Language Processing (NLP)** and **
 - Scalable structure for adding new intents  
 - Easy to deploy on local or web applications (Flask / Streamlit)
 
----
 
-
-
----
-
-## 📁 Project Structure
